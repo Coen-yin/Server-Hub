@@ -1,0 +1,16 @@
+{
+  "lastUpdate": "2025-08-04 11:33:14",
+  "totalUsers": 2,
+  "users": [
+    {
+      "id": 1,
+      "username": "Coen-yin",
+      "email": "admin@minecrafthub.com",
+      "password": "Carronshore93",
+      "isAdmin": true,
+      "joinDate": "2025-08-04 11:33:14",
+      "serversSubmitted": 2,
+      "lastLogin": "2025-08-04 11:33:14"
+    }
+  ]
+}
