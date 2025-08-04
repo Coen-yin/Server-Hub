@@ -1,0 +1,21 @@
+{
+  "lastUpdate": "2025-08-04 11:33:14",
+  "totalServers": 8,
+  "servers": [
+    {
+      "id": 1,
+      "name": "The Outlands SMP",
+      "ip": "TheOutlands.serverminer.com",
+      "version": "1.20.4",
+      "players": "187/250",
+      "description": "🏰 Epic fantasy adventure server with custom dungeons, quests, and kingdoms!",
+      "sponsored": true,
+      "status": "approved",
+      "addedBy": "Coen-yin",
+      "dateAdded": "2025-08-04 11:33:14",
+      "category": "SMP",
+      "votes": 456,
+      "featured": true
+    }
+  ]
+}
